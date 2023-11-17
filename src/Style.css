@@ -1,0 +1,58 @@
+.bgContainer {
+    background-color: rgb(42, 41, 41);
+    width: 450px;
+    height: 680px;
+    padding: 10px;
+    border-radius: 1rem;
+    border-color: black;
+    text-align: center;
+}
+img{
+    width: 60px;
+    height: 80px;
+}
+
+.bgTop {
+    background-color: rgb(22, 24, 22);
+    border-radius: 0.5rem;
+    padding: 1px 5px;
+    float: none;
+}
+
+.bgTop ul {
+    background-color: aqua;
+    width: 100%;
+    padding: 0.1rem 0;
+    border-radius: 0.5rem;
+}
+
+.bgTop ul li {
+    background-color: bisque;
+    padding: 0 0.2rem;
+    margin: 0 0.2rem;
+    border-radius: 0.5rem;
+    color: aliceblue;
+    display: inline;
+}
+
+.bgNav {
+    background-color: rgb(27, 144, 27);
+}
+
+.bgBtnSuccess {
+    background-color: rgb(27, 144, 27);
+    padding: 4px 1rem;
+    margin: 0.25rem;
+    border-radius: 1.5rem;
+    border-color: rgb(7, 24, 2);
+    cursor: pointer;
+}
+
+.bgBtnDanger {
+    background-color: rgb(217, 60, 60);
+    padding: 4px 1rem;
+    margin: 0.25rem;
+    border-radius: 1.5rem;
+    border-color: rgb(56, 4, 4);
+    cursor: pointer;
+}
